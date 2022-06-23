@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Are the letters unique'/>
+        <page name='Is a string a palindrome'/>
+        <page name='Do two string contain the same'/>
+        <page name='Does one string contains another?'/>
+        <page name='Count the characters'/>
+        <page name='Remove Duplicate'/>
+        <page name='Condense whitespace'/>
+        <page name='String routation'/>
+        <page name='Find pangrams'/>
+        <page name='Vowels and consonants'/>
+        <page name='Three diffrent letters'/>
+        <page name='Find longest prefix'/>
+        <page name='Run-length encoding'/>
+    </pages>
+</playground>
