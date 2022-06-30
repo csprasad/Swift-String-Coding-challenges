@@ -14,5 +14,6 @@
         <page name='Three diffrent letters'/>
         <page name='Find longest prefix'/>
         <page name='Run-length encoding'/>
+        <page name='Challenge 01'/>
     </pages>
 </playground>
