@@ -1,2 +1,2 @@
-# Swift-String-Coding-challenges
+# Swift-String-Coding-challenges | Algorithms
 "Hacking with swift"  - String coding challenges solutions.
